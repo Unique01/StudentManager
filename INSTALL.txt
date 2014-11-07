@@ -1,0 +1,9 @@
+Procédure d'installation :
+--------------------------
+
+1)Déplacer le fichier StudentManager.h2.db dans le repertoire C:\Users\Nom_Utilisateur pour etre accéder à l'aide de la configuration jdbc:h2:~/StudentManager.
+2)Installer Eclipse JEE
+3)Configurer un serveur Tomcat 7
+4)Lancer l'application :
+	Email : myLogin@aa.aa
+	Password : myPassword
